@@ -26,6 +26,8 @@ Meu nome é Thiago Costa, tenho 19 anos e sou um desenvolvedor em formação pel
 Sempre buscando aprender novas tecnologias para entregar soluções eficientes.
 Atualmente, foco meus estudos no desenvolvimento de sistemas e automações, enquanto busco minha primeira
 oportunidade no mercado de tecnologia para colocar meu conhecimento em prática e evoluir constantemente.
+
+
 ------------------------------"I determine my own destiny."------------------------------
 ```
 
