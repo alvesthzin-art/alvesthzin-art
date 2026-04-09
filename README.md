@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=230&section=header&text=alvesthzin-art&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=60&desc=Those+who+cannot+acknowledge+themselves+will+eventually+fail.&descAlignY=78&descSize=12&descColor=cc2222"/>
+![banner](./itachi-banner.svg)
 
 </div>
 
@@ -13,33 +13,31 @@
 ---
 
 <div align="center">
-<img src="https://media1.tenor.com/m/zw9qpKwYlZgAAAAd/itachi-uchiha.gif" width="320"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media1.tenor.com/m/mhGzi1Y-evEAAAAd/itachi-itachi-uchiha.gif" width="320"/>
+<img src="https://media1.tenor.com/m/zw9qpKwYlZgAAAAd/itachi-uchiha.gif" width="255"/>
+&nbsp;&nbsp;
+<img src="https://media1.tenor.com/m/xPtJR7atMnsAAAAd/sharingan-mangekyo.gif" width="255"/>
+&nbsp;&nbsp;
+<img src="https://media1.tenor.com/m/mhGzi1Y-evEAAAAd/itachi-itachi-uchiha.gif" width="255"/>
 </div>
 
 ---
 
-<img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=alvesthzin-art&show_icons=true&hide_border=true&bg_color=0D0010&title_color=CC0000&icon_color=CC0000&text_color=cccccc&count_private=true"/>
+### `> sobre mim`
 
-### `> whoami`
-
-```sh
- name    :  alvesthzin-art
- clan    :  Uchiha
- kekkei  :  Sharingan → Mangekyou
- path    :  create. evolve. endure.
- status  :  always coding...
- quote   :  "I determine my own destiny."
+```
+Desenvolvedor em formação
+Apaixonado por criar interfaces e sistemas
+Sempre aprendendo algo novo
+Foco: Web, Java e automações
+"I determine my own destiny."
 ```
 
 <br/><br/><br/><br/><br/>
 
 ---
 
-<img align="right" width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesthzin-art&layout=compact&hide_border=true&bg_color=0D0010&title_color=CC0000&text_color=cccccc&langs_count=6"/>
 
-### `> skills --list`
+### `> tecnologias`
 
 <br/>
 
@@ -56,7 +54,7 @@
 
 ---
 
-### `> streak --show`
+### `> estatísticas`
 
 <div align="center">
 
@@ -66,7 +64,7 @@
 
 ---
 
-### `> contributions --view sharingan`
+### `> contribuições`
 
 <div align="center">
 
@@ -81,8 +79,6 @@
 ---
 
 <div align="center">
-
-### `> uchiha.quote`
 
 > *"People's lives don't end when they die. It ends when they lose faith."*
 >
