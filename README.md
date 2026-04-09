@@ -15,9 +15,6 @@
 <div align="center">
 <img src="https://media1.tenor.com/m/zw9qpKwYlZgAAAAd/itachi-uchiha.gif" width="255"/>
 &nbsp;&nbsp;
-<img src="https://media1.tenor.com/m/xPtJR7atMnsAAAAd/sharingan-mangekyo.gif" width="255"/>
-&nbsp;&nbsp;
-<img src="https://media1.tenor.com/m/mhGzi1Y-evEAAAAd/itachi-itachi-uchiha.gif" width="255"/>
 </div>
 
 ---
@@ -25,11 +22,12 @@
 ### `> sobre mim`
 
 ```
-Desenvolvedor em formação
-Apaixonado por criar interfaces e sistemas
-Sempre aprendendo algo novo
-Foco: Web, Java e automações
-"I determine my own destiny."
+Meu nome é Thiago Costa, tenho 19 anos e sou um desenvolvedor em formação pelo SENAI Jandira. 
+Sempre buscando aprender novas tecnologias para entregar soluções eficientes.
+Atualmente, foco meus estudos no desenvolvimento de sistemas e automações, enquanto busco minha primeira
+oportunidade no mercado de tecnologia para colocar meu conhecimento em prática e evoluir constantemente.
+
+------------------------------"I determine my own destiny."------------------------------
 ```
 
 <br/><br/><br/><br/><br/>
