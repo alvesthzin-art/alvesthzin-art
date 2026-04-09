@@ -34,7 +34,6 @@ oportunidade no mercado de tecnologia para colocar meu conhecimento em prática 
 
 ---
 
-
 ### `> tecnologias`
 
 <br/>
@@ -90,6 +89,6 @@ oportunidade no mercado de tecnologia para colocar meu conhecimento em prática 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling&desc=No+single+thing+is+perfect+by+itself.+That+is+why+we+are+born+to+attract+other+things.&descSize=11&descColor=cc2222&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling&desc=Nothing+is+perfect+on+its+own.+That's+why+we+are+born+to+seek+what+completes+us.&descSize=11&descColor=cc2222&descAlignY=55"/>
 
 </div>
