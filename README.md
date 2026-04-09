@@ -26,7 +26,6 @@ Meu nome é Thiago Costa, tenho 19 anos e sou um desenvolvedor em formação pel
 Sempre buscando aprender novas tecnologias para entregar soluções eficientes.
 Atualmente, foco meus estudos no desenvolvimento de sistemas e automações, enquanto busco minha primeira
 oportunidade no mercado de tecnologia para colocar meu conhecimento em prática e evoluir constantemente.
-
 ------------------------------"I determine my own destiny."------------------------------
 ```
 
@@ -70,6 +69,18 @@ oportunidade no mercado de tecnologia para colocar meu conhecimento em prática 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvesthzin-art/alvesthzin-art/output/github-contribution-grid-snake.svg"/>
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/alvesthzin-art/alvesthzin-art/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
+
+</div>
+
+---
+
+### `> contato`
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-0D0010?style=for-the-badge&logo=instagram&logoColor=CC0000)](https://www.instagram.com/alves_th7?igsh=MWxsOXR1N214Mjlkbw==)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0D0010?style=for-the-badge&logo=whatsapp&logoColor=CC0000)](https://wa.me/5511977832812)
+[![Gmail](https://img.shields.io/badge/Gmail-0D0010?style=for-the-badge&logo=gmail&logoColor=CC0000)](mailto:alvesthzin02@gmail.com)
 
 </div>
 
