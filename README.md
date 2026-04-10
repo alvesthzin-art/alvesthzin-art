@@ -12,12 +12,6 @@
 
 ---
 
-<div align="center">
-<img src="https://media1.tenor.com/m/zw9qpKwYlZgAAAAd/itachi-uchiha.gif" width="255"/>
-&nbsp;&nbsp;
-</div>
-
----
 
 ### `> sobre mim`
 
