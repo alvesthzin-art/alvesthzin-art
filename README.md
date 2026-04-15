@@ -82,6 +82,7 @@ oportunidade no mercado de tecnologia para colocar meu conhecimento em prática 
 
 ---
 
+
 <div align="center">
 
 > *"People's lives don't end when they die. It ends when they lose faith."*
