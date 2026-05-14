@@ -2,14 +2,8 @@
 
 ### `> sobre mim`
 
-Meu nome é Thiago Costa, tenho 19 anos e sou um desenvolvedor em formação pelo **SENAI Jandira**.  
+Meu nome é Thiago Costa, tenho 19 anos e sou um desenvolvedor em formação pelo **SENAI Jandira**.
 Sempre buscando aprender novas tecnologias para entregar soluções eficientes. Atualmente, foco meus estudos no desenvolvimento de sistemas e automações, enquanto busco minha primeira oportunidade no mercado de tecnologia para colocar meu conhecimento em prática e evoluir constantemente.
-
-<div align="center">
-  <br/>
-  <i>"I determine my own destiny."</i>
-  <br/>
-</div>
 
 ---
 
@@ -57,12 +51,5 @@ Sempre buscando aprender novas tecnologias para entregar soluções eficientes. 
 ### `> contribuições`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvesthzin-art/alvesthzin-art/output/github-contribution-grid-snake-dark.svg"/>
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/alvesthzin-art/alvesthzin-art/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-  
-  <br/>
-  
   <img src="https://komarev.com/ghpvc/?username=alvesthzin-art&style=flat-square&color=cc0000&label=VISITANTES" />
 </div>
